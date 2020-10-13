@@ -1,0 +1,1044 @@
+@media(max-width:1300px){
+/* --------------------Responsive Style Start-------------------- */
+div#TopNavbarSizing {
+    width: 99%;
+}
+i#NavbarMenuIconBar2{
+	display:block;
+}
+section#SectionAbout {
+    width: 99%;
+}
+ul#HomeSection2LeftMenuBarUlList {
+    width: 100%;
+}
+section#SectionAbout{
+	border:none;
+}
+div#AboutSectionConteinerDiv{
+	margin:auto;
+}
+/* i#NavbarMenuIconBar { */
+    /* float: left; */
+    /* margin-top: 31px; */
+    /* margin-right: 40px; */
+    /* margin-left: 17px; */
+    /* font-size: 25px; */
+    /* color: black; */
+    /* display: block; */
+/* } */
+i#NavbarMenuIconBar {
+    float: left;
+    margin-top: 26px;
+    margin-right: 31px;
+    margin-left: 17px;
+    font-size: 18px;
+    color: black;
+    display: block;
+    padding: 9px;
+	transition:all 0.5s;
+}
+i#NavbarMenuIconBar:hover{
+	background: gainsboro;
+}
+img#NavLogo {
+    margin-right: 8px;
+}
+div#NavBarRightAlignConteiner {
+    width: 76.6%;
+}
+i#NavbarMenuIconBarMain {
+    font-size: 22px;
+    color: black;
+    padding: 6px 6px;
+    display: block;
+}
+li#MenuListResponsive {
+    display: none;
+}
+ul#UlListDropdownMainMenue {
+    position: fixed;
+    font-family: arial;
+    top: 60px;
+    margin-bottom: 0px;
+	display:none;
+}
+#UlList li a{
+	float:none;
+}
+li#DropDownMainList {
+    display: contents;
+}
+div#SearchAndSignUpInDiv {
+    width: 413px;
+}
+input#SearchInput {
+    width: 78%;
+}
+#MenuList:hover #UlListDropdownMainMenue{
+	display:block;
+}
+div#SearchDiv {
+    width: 163px;
+	margin-left:0px;
+}
+a#DropDownMainAnkor {
+    font-weight: bold;
+    color: black;
+    display: block;
+    padding: 8px 23px;
+    background: #e6e6e6;
+    font-size: 14px;
+	margin:0px !important;
+}
+div#PositionStickyRightSideNavbar {
+    position: absolute;
+    background: gainsboro;
+    /* top: 87px; */
+	top:0;
+	left: -240;
+	overflow: overlay;
+    height: 100%;
+}
+i#LeftNavbarIcon {
+    display: none;
+}
+#HomeSection2LeftMenuBarUlList li a {
+    
+    margin-left: 19px;
+}
+i#LeftNavbarCrossIcon {
+	display: block;
+    font-size: 22px;
+    color: #000000a8;
+    padding: 10px 18px;
+    width: 19px;
+}
+i#LeftNavbarCrossIcon2{
+    display: block;
+    font-size: 22px;
+    color: #000000a8;
+    padding: 10px 18px;
+    width: 19px;
+	float: left;
+}
+ul#HomeSection2LeftMenuBarUlList {
+    margin-top: 7px;
+}
+
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width: 960px;
+}
+div#AskQsthnAndMenuBar {
+    width: 960px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:845px;
+}
+section#HomeSection2 {
+    width: 1255px;
+}
+/* -------------------Responsive Style End----------------------- */
+
+}
+@media(max-width:1280px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width: 959px;
+}
+div#AskQsthnAndMenuBar {
+    width: 959px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:844px;
+}
+section#HomeSection2 {
+    width: 1255px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+/* ------------------------------------------------- */
+@media(max-width:1279px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width: 958px;
+}
+div#AskQsthnAndMenuBar {
+    width: 958px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:843px;
+}
+section#HomeSection2 {
+    width: 1254px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+
+
+/* ------------------------------------------------------------ */
+@media(max-width:1278px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width: 957px;
+}
+div#AskQsthnAndMenuBar {
+    width: 957px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:842px;
+}
+section#HomeSection2 {
+    width: 1253px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+/* ------------------------------------------------------------ */
+@media(max-width:1277px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width: 956px;
+}
+div#AskQsthnAndMenuBar {
+    width: 956px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:841px;
+}
+section#HomeSection2 {
+    width: 1252px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+/* ------------------------------------------------------------ */
+@media(max-width:1276px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width: 955px;
+}
+div#AskQsthnAndMenuBar {
+    width: 955px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:840px;
+}
+section#HomeSection2 {
+    width: 1251px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+@media(max-width:1275px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width: 940px;
+}
+div#AskQsthnAndMenuBar {
+    width: 940px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:825px;
+}
+section#HomeSection2 {
+    width: 1236px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+/* --------------------------------------- */
+
+@media(max-width:1265px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width: 910px;
+}
+div#AskQsthnAndMenuBar {
+    width: 910px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:795px;
+}
+section#HomeSection2 {
+    width: 1206px;
+}
+/* -------------------------End--------------------- */
+}
+
+/* --------------------------------------- */
+
+@media(max-width:1245px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:890px;
+}
+div#AskQsthnAndMenuBar {
+    width: 890px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:775px;
+}
+section#HomeSection2 {
+    width: 1186px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+/* --------------------------------------- */
+
+@media(max-width:1225px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:870px;
+}
+div#AskQsthnAndMenuBar {
+    width: 870px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:755px;
+}
+section#HomeSection2 {
+    width: 1166px;
+}
+/* -------------------------End--------------------- */
+}
+
+@media(max-width:1205px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:850px;
+}
+div#AskQsthnAndMenuBar {
+    width: 850px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:735px;
+}
+section#HomeSection2 {
+    width: 1146px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+
+@media(max-width:1185px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:830px;
+}
+div#AskQsthnAndMenuBar {
+    width: 830px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:715px;
+}
+section#HomeSection2 {
+    width: 1126px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+@media(max-width:1165px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:810px;
+}
+div#AskQsthnAndMenuBar {
+    width: 810px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:695px;
+}
+section#HomeSection2 {
+    width: 1106px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+@media(max-width:1145px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:790px;
+}
+div#AskQsthnAndMenuBar {
+    width:790px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:675px;
+}
+section#HomeSection2 {
+    width:1086px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+
+@media(max-width:1125px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:770px;
+}
+div#AskQsthnAndMenuBar {
+    width:770px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:655px;
+}
+section#HomeSection2 {
+    width:1066px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+
+@media(max-width:1105px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:750px;
+}
+div#AskQsthnAndMenuBar {
+    width:750px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:635px;
+}
+section#HomeSection2 {
+    width:1046px;
+}
+
+/* -------------------------End--------------------- */
+}
+
+@media(max-width:1085px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:730px;
+}
+div#AskQsthnAndMenuBar {
+    width:730px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:615px;
+}
+section#HomeSection2 {
+    width:1026px;
+}
+div#HomeSection4QuestionDateTime {
+    overflow: hidden;
+    margin-bottom: 24px;
+    padding-top: 0px;
+    width: 92%;
+    float: right;
+    margin-top: -32px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width: 100%;
+}
+/* -------------------------End--------------------- */
+}
+
+@media(max-width:1065px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:710px;
+}
+div#AskQsthnAndMenuBar {
+    width:710px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:595px;
+}
+section#HomeSection2 {
+    width:1006px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+@media(max-width:1045px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:690px;
+}
+div#AskQsthnAndMenuBar {
+    width:690px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:575px;
+}
+section#HomeSection2 {
+    width:986px;
+}
+
+div#ProfilePersonAnwrAndShareButton {
+    float: left;
+    width: 100%;
+    margin-left: 66px;
+    margin-top: 24px;
+}
+button#ProfilePersonAnwrButton {
+    float: left;
+}
+i#ProfilePersonShareButton {
+    display: block;
+    float: left;
+    margin-top: -33px;
+}
+
+#UlList2 a {
+    font-size: 12px;
+}
+#UlList2 {
+    width: 622px;
+
+}
+/* -------------------------End--------------------- */
+}
+
+@media(max-width:1025px){
+	/* -----------------------------start---------------------- */
+	
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:670px;
+}
+div#AskQsthnAndMenuBar {
+    width:670px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:555px;
+}
+section#HomeSection2 {
+    width:966px;
+}
+i#LeftNavbarCrossIcon2 {
+    display: block;
+}
+/* -------------------------End--------------------- */
+}
+
+@media(max-width:1005px){
+	/* -----------------------------start---------------------- */
+	/* ----------------------------about page responsive----------------------- */
+	div#AboutSectionConteinerDiv {
+    width:90%;
+    padding: 0px 17px;
+}
+div#BlogSectionDiv{
+	width:100%;
+    margin:auto;
+}
+    h1#AboutSetionHeader {
+	padding: 0px 17px;	
+}
+	/* ------------------about end-------------------- */
+	li#LeftNavbarList{
+	display:none;
+}
+li#ResponsiveNavbarLeftSideSlider{
+	display:block;
+}
+i#LeftNavbarCrossIcon2 {
+    display: none;
+}
+	
+/* ------------------------Left Section Width---------------- */
+
+section#HomeSection3{
+    width:650px;
+}
+div#AskQsthnAndMenuBar {
+    width:650px;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:535px;
+}
+section#HomeSection2 {
+    width:946px;
+}
+ul#UlList {
+    display: none;
+}
+div#SearchDiv {
+    display: none;
+}
+ul#UlListSignInAndSignUpButton {
+    list-style: none;
+    overflow: hidden;
+    height: 87px;
+    border:none;
+	padding-left:0px;
+}
+a#SignInButton {
+    font-size: 12px;
+}
+a#SignUpButton {
+    font-size: 12px;
+}
+div#SearchAndSignUpInDiv {
+    width: 176px;
+}
+div#NavBarRightAlignConteiner {
+    width: 176px;
+}
+div#WebLogoDiv {
+    width: 46%;
+    float: left;
+    overflow: hidden;
+}
+img#NavLogo {
+    float: right;
+    margin-right: 0px;
+}
+
+div#PositionStickyHomeSection2RightNavBar {
+    display: none;
+}
+div#PositionStickyHomeSection2RightNavBar2 {
+    display: block;
+}
+section#HomeSection2RightNavBar2 {
+    width: 99%;
+    margin: auto;
+    
+}
+section#HomeSection2 {
+    width: 100%;
+}
+section#HomeSection3 {
+    width: 100%;
+}
+div#AskQsthnAndMenuBar {
+    width: 100%;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:100%;
+}
+div#ProfilePersonAnwrAndShareButton {
+    float: right;
+    width: 81px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+i#ProfilePersonShareButton {
+    float: right;
+    margin-top: -1px;
+    margin-right: 20px;
+}
+div#RightBlokMemberFrofileNameAndDttls {
+    width: 53%;
+}
+div#HomeSection2RightNavBarProfilePicturDiv {
+    width: 30px;
+    height: 30px;
+}
+div#HomeSection2RightNavBarProfileDivConteiner {
+    width: 91%;
+    margin-top: -3px;
+    margin-right:0px;
+}
+div#RightBlokMemberFrofileNameAndDttlsTopMembers {
+    width: 89%;
+}
+h3#ResponsiveBottomSectionHeader {
+    margin: 9px 18px;
+    background: #000000b8;
+    color: white;
+    font-family: arial;
+    display: block;
+    text-align: center;
+    padding: 9px 0px;
+    font-size: 16px;
+    border-radius: 4px;
+}
+div#PositionStickyHomeSection2RightNavBar2 {
+    overflow: hidden;
+    height: 1100px;
+}
+select#SelectOptionSelectMenue {
+    width: 91%;
+    outline: none;
+    border: none;
+    padding: 10px 5px;
+    display: block;
+    border: 1px solid #00000033;
+    margin: auto;
+    margin-top: 90px;
+    border-radius: 5px;
+}
+nav#NavBarManus {
+    display: none;
+}
+
+
+div#AskQsthnAndMenuBar {
+    border-bottom: 2px solid #00000017;
+    padding-bottom: 13px;
+}
+select#SelectResponsiveTopMainMenuSelectConteiner {
+    width: 90%;
+    display: block;
+    margin: auto;
+	outline: none;
+    padding: 7px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+	border: 1px solid #0000003d;
+}
+div#SearchDiv2 {
+    width: 90%;
+    margin: auto;
+    margin-top:10px;
+    margin-bottom:10px;
+    border: 1px solid #0000003d;
+    padding: 7px 0px;
+    border-radius: 28px;
+}
+input#SearchInput2 {
+    width: 95%;
+    border: initial;
+    outline: none;
+    /* padding-left: 17px; */
+    margin-left: 5px;
+    padding-left: 13px;
+	
+}
+i#SearchIcon2 {
+    color: #00000075;
+}
+div#MenuAndSearchBarResponsiveSectionDiv {
+    overflow: hidden;
+	display:block;
+    border-bottom: 1px solid #0000002e;
+    margin-bottom: 1px;
+}
+/* -------------------------End--------------------- */
+}
+
+
+
+
+@media(max-width:768px){
+	/* --------------------------------start-------------- */
+	div#HomeSection4QuestionDateTime {
+    overflow: hidden;
+    margin-bottom: 24px;
+    padding-top: 0px;
+    width: 88%;
+	}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:100%;
+} 
+div#HomeSection1DivAllConteiner {
+    width: 91%;
+}
+
+div#ProfilePersonAnwrAndShareButton {
+    float: left;
+    width: 100%;
+    margin-left: 66px;
+    margin-top: 24px;
+}
+i#ProfilePersonShareButton {
+    display: block;
+    float: left;
+    margin-top: -33px;
+}
+input#SearchInput2 {
+    width: 94%;
+}
+
+/* -----------------------------------End-------------------------- */
+
+}
+
+@media(max-width:635px){
+	/* -----------start------------- */
+	span#BlogCattgoryConteiner {
+    display: block;
+	margin-top: 4px;
+}
+span#SlashId {
+    display: none;
+}
+img#AboutSectionImage {
+    height: 360px;
+}
+div#BlogBlockDivSizing {
+    padding-top: 30px;
+}
+/* -----------------end------------------- */
+}
+
+
+@media(max-width:570px){
+	/* --------------------------------start-------------- */
+input#AskQuestionInputTypeText {
+    width: 82%;
+}
+input#SearchInput2 {
+    width: 92%;
+}
+div#HomeSection4QuestionDateTimeDttlsAndAllConteiner {
+    width:100%;
+}
+div#HomeSection4QuestionDateTime {
+    margin-top: -46px;
+    width: 84%;
+}
+p#HomeSection4QuestionDateTimeDttls {
+    margin-left: 0px;
+    font-size: 12px;
+    float: left;
+    width: 100%;
+    margin-top: 15px;
+}
+/* span#ProfileCattagry { */
+    /* margin-left: -111px; */
+    /* margin-top: 22px; */
+    /* text-align: center; */
+/* } */
+div#WebLogoDiv {
+    width: 45%;
+}
+a#SignUpButton{
+    font-size: 10px;
+}
+a#SignInButton {
+    font-size: 10px;
+}
+div#SearchAndSignUpInDiv {
+    width: 166px;
+}
+#UlListSignInAndSignUpButton li a {
+    margin-top: 30px;
+}
+div#RightBlokMemberFrofileNameAndDttlsTopMembers {
+    width: 85%;
+}
+div#PositionStickyHomeSection2RightNavBar2 {
+    overflow: hidden;
+    height: 1170px;
+}
+
+/* -----------------------------------End-------------------------- */
+
+}
+@media(max-width:494px){
+	/* ----------------------------------start----------------------- */
+	span#IconProfileBorder {
+    display: block;
+}
+div#WebLogoDiv {
+    width: 38%;
+}
+img#NavLogo {
+    width: 100px;
+}
+h3#HomeSection1Button {
+    width: 100%;
+}
+img#NavLogo {
+    margin: 27px 0px;
+}
+div#SearchAndSignUpInDiv {
+    width: 145px;
+}
+#UlListSignInAndSignUpButton li a {
+    margin-top: 32px;
+}
+a#SignInButton {
+    font-size: 7px;
+}
+a#SignUpButton {
+    font-size: 7px;
+}
+div#NavBarRightAlignConteiner {
+    width: 147px;
+}
+input#SearchInput2 {
+    width: 90%;
+}
+input#AskQuestionInputTypeText {
+    width: 76%;
+}
+/* div#HomeSection4QuestionDateTimeDttlsAndAllConteiner { */
+    /* width: 79%; */
+/* } */
+div#HomeSection2RightNavBarProfileDivConteiner {
+    width: 79%;
+}
+div#RightBlokMemberFrofileNameAndDttlsTopMembers {
+    width: 79%;
+}
+/* -------------------------------------------ennd----------------------------- */
+}
+@media(max-width:490px){
+	/* --------------------------------start--------------------- */
+	div#HomeSection4QuestionDateTime {
+    width: 79%;
+}
+
+/* ------------------------------end---------------------- */
+}
+@media(max-width:400px){
+	div#PositionStickyHomeSection2RightNavBar2 {
+    height: 1232px;
+	}
+	
+}
+@media(max-width:390px){
+	i#NavbarMenuIconBar {
+    margin-right:0px;
+	}
+	i#NavbarMenuIconBar2 {
+    margin-right:0px;
+	}
+}
+@media(max-width:335px){
+	/* ----------------------------------start---------------------- */
+
+	
+	section#SectionAbout {
+    width: 322px;
+}
+
+i#NavbarMenuIconBar {
+    margin-right:0px;
+}
+i#NavbarMenuIconBar2 {
+    margin-right:0px;
+}
+
+div#TopNavbarSizing {
+    width: 335px;
+}
+div#MenuAndSearchBarResponsiveSectionDiv {
+    width: 322px;
+}
+div#SearchDiv2 {
+    width: 80%;
+}
+div#AskQsthnAndMenuBar {
+    width: 335px;
+}
+input#AskQuestionInputTypeText {
+    width: 73%;
+}
+select#SelectOptionSelectMenue {
+    width: 83%;
+}
+nav#NavBar {
+    width: 322px;
+}
+div#HomeSectionBannerDiv {
+    width: 322px;
+}
+section#HomeSection4 {
+    width: 335px;
+}
+div#PositionStickyHomeSection2RightNavBar2 {
+     width: 322px;	
+}
+div#HomeSection2RightNavBarProfileDivConteiner {
+    width: 74%;
+}
+div#RightBlokMemberFrofileNameAndDttlsTopMembers {
+    width: 74%;
+}
+input#SearchInput2 {
+    width: 87%;
+}
+/* ----------------------------end---------------------- */
+}
